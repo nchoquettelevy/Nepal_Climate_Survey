@@ -1,0 +1,1 @@
+This is a temporary repository for data and analysis scripts related to the manuscript "Hunkering Down under Climate-Driven Risks in Subsistence Farming Communities". In the coming months, we plan to migrate the data to a publicly-available repository with ICPSR. Questions about data and/or analysis scripts can be directed to Nicolas Choquette-Levy at nclevy@bu.edu.
